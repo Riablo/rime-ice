@@ -9,4 +9,4 @@ patch:
       reset: 1
     - name: ascii_punct
       states: [ 。，, ．， ]
-      reset: 1
+      reset: 0

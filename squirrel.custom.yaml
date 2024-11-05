@@ -5,8 +5,15 @@ patch:
       ascii_mode: true   # 初始爲西文模式
     com.microsoft.VSCode:
       ascii_mode: true   # 初始爲西文模式
+      ascii_punct: true # 初始爲西文標點
+    com.todesktop.230313mzl4w4u92: # Cursor
+      ascii_mode: true   # 初始爲西文模式
+      ascii_punct: true # 初始爲西文標點
+    com.coteditor.CotEditor:
+      ascii_mode: true   # 初始爲西文模式
+      ascii_punct: true # 初始爲西文標點
     md.obsidian:
-      ascii_mode: false  # 初始爲中文模式 多少啊
+      ascii_mode: false  # 初始爲中文模式
       ascii_punct: false # 初始爲中文標點
     dev.warp.Warp-Stable:
       ascii_mode: true
@@ -16,6 +23,10 @@ patch:
     com.tencent.xinWeChat:
       ascii_mode: false
       ascii_punct: false
+    tech.baye.OpenCat:
+      ascii_mode: true
+      ascii_punct: true
+
 
   style:
     # 选择皮肤，亮色与暗色主题
