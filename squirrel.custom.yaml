@@ -224,7 +224,8 @@ patch:
     apathy:
       name: 冷漠／Apathy
       author: LIANG Hai
-      horizontal: true  # 水平排列
+      candidate_list_layout: linear   # 候选排布：层叠 stacked | 行 linear
+      text_orientation: horizontal    # 行文向： 横 horizontal | 纵 vertical
       inline_preedit: true #单行显示，false双行显示
       candidate_format: "%c\u2005%@\u2005"  # 编号 %c 和候选词 %@ 前后的空间
       corner_radius: 5  #候选条圆角
