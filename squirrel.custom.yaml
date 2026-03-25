@@ -371,7 +371,7 @@ patch:
       author: 雨過之後、佛振
 
       # 字体设置（来自 purity_of_form_custom）
-      font_face: "LXGW WenKai"
+      font_face: ""
       font_point: 18
       label_font_face: "Helvetica"
       label_font_point: 12
