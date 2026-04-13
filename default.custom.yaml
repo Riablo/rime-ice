@@ -14,6 +14,15 @@ patch:
   switcher/hotkeys:
     - Control+grave
 
+  # 标点符号
+  punctuator/half_shape:
+    ",": "，"
+    ".": "。"
+    "?": "？"
+    ";": "；"
+    ":": "："
+    '\': "、"
+
   # 快捷键
   key_binder:
     # Lua 配置: 以词定字（上屏当前词句的第一个或最后一个字），和中括号翻页有冲突

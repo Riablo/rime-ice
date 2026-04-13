@@ -1,4 +1,14 @@
 patch:
+  app_options:
+    riccqi.TabTab:
+      ascii_mode: true # 开启默认英文
+    com.raycast.macos:
+      ascii_mode: true # 开启默认英文
+    dev.zed.Zed:
+      ascii_mode: true # 开启默认英文
+  # com.microsoft.VSCode:
+  #   ascii_mode: false   # 关闭默认英文
+
   style:
     # 选择皮肤，亮色与暗色主题
     color_scheme: purity_of_form_retro_orange_fusion
